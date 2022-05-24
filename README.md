@@ -1,4 +1,4 @@
-# Burc-Bulma-Prograami
+# Burc-Bulma-Programi
 
 import java.util.Scanner;
 
